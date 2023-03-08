@@ -1,0 +1,20 @@
+{
+    "type": "record",
+    "name": "Conta",
+    "namespace": "com.ada.mercado",
+    "fields":[
+        {
+            "name": "idConta",
+            "type": "string"
+        },
+        {
+            "name": "idCompra",
+            "type": "string"
+        },
+	{
+            "name": "valorCompra",
+            "type": "double"
+        }
+]
+   
+}
